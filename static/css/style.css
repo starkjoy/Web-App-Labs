@@ -59,7 +59,7 @@
      font: 400 20px 'Inter', sans-serif;
      position: absolute;
      left: 626px;
-    top: 373px;
+     top: 373px;
      width: 187px;
      height: 29px;
     }
@@ -74,6 +74,7 @@
        position: absolute;
        left: 434px;
       top: 794px;
+      flex-shrink: 0;
     }
     
 

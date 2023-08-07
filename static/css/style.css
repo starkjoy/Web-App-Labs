@@ -11,7 +11,7 @@
 
  .rectangle-3 {
     background: linear-gradient(to left, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03));
-     width: 100%;
+     width: 1024px;
      height: 745px;
      position: absolute;
      left: 0px;

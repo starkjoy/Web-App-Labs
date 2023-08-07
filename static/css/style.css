@@ -44,7 +44,12 @@
     }
 
 .name-input::placeholder {
-      text-align: center;
+   color: #6185a6;
+   text-align: left;
+   font: 400 20px 'Inter', sans-serif;
+   position: relative;
+   width: 187px;
+   height: 29px;
   }
   
 

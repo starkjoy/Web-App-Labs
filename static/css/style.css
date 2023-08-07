@@ -60,9 +60,10 @@
        border-color: #747474;
        border-width: 2px;
        width: 572px;
+       height: 168px;
        position: absolute;
        left: 434px;
-      top: calc(794px + 20px);
+      top: 794px;
     }
     
 

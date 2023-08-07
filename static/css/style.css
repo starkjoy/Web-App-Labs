@@ -72,29 +72,3 @@
      left: 597px;
     top: 42px;
     }
-
-    /* Base styles */
-.desktop-1, .desktop-1 * {
-   box-sizing: border-box;
-}
-
-.desktop-1 {
-   background: #ffffff;
-   width: 100%; /* Set width to 100% for responsiveness */
-   max-width: 1440px; /* Add a max-width to prevent excessive stretching */
-   height: auto; /* Allow height to adjust based on content */
-   position: relative;
-   overflow: hidden;
-}
-
-/* Rest of your existing styles */
-
-/* Media query for smaller screens */
-@media (max-width: 768px) {
-   .desktop-1 {
-       max-width: 100%; /* Adjust max-width for smaller screens */
-       padding: 20px; /* Add padding to the container for better readability */
-   }
-
-   /* Add additional styles for smaller screens as needed */
-}

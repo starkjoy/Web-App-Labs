@@ -63,8 +63,7 @@
        height: 168px;
        position: absolute;
        left: 434px;
-      top: 794px;
-      bottom: 20px;
+      top: calc(794px + 20px);
     }
     
 

@@ -1,7 +1,7 @@
 .rectangle-5, .rectangle-5 * {
    box-sizing: border-box;
    }
-   
+
 .html {
     background: #ffffff;
      width: 1024px;
@@ -61,7 +61,7 @@
      border-width: 2px;
      width: 572px;
      height: 168px;
-     position: absolute;
+     position: relative;
      left: 434px;
     top: 794px;
     }

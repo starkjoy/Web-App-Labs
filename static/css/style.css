@@ -28,7 +28,7 @@
     top: 833px;
     }
 
- .name-input, input {
+ .name-input {
     background: rgba(255, 255, 255, 0.02);
      border-radius: 22px;
      border-style: solid;

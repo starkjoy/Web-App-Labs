@@ -53,15 +53,18 @@
      height: 29px;
     }
 
-    .rectangle-5 {
-      border-radius: 44px;
-      border-style: dashed;
-      border-color: #747474;
-      border-width: 2px;
-      width: 572px;
-      height: 168px;
-      position: relative;
-      }
+ .rectangle-5 {
+    border-radius: 44px;
+     border-style: dashed;
+     border-color: #747474;
+     border-width: 2px;
+     width: 572px;
+     height: 168px;
+     position: absolute;
+     left: 434px;
+    top: 794px;
+    padding-bottom: 5px;
+    }
 
  .leafs-1 {
     width: 245px;

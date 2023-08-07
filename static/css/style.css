@@ -1,0 +1,74 @@
+.desktop-1, .desktop-1 * {
+     box-sizing: border-box;
+     }
+.desktop-1 {
+    background: #ffffff;
+     width: 1440px;
+     height: 1024px;
+     position: relative;
+     overflow: hidden;
+    }
+
+ .rectangle-3 {
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.03), rgba(0, 0, 0, 0.03));
+     width: 1440px;
+     height: 745px;
+     position: absolute;
+     left: 0px;
+    top: 0px;
+    }
+
+ .name {
+    color: #717171;
+     text-align: left;
+     font: 700 64px 'Inter', sans-serif;
+     position: absolute;
+     left: 629px;
+    top: 833px;
+    }
+
+ .rectangle-1 {
+    background: rgba(255, 255, 255, 0.02);
+     border-radius: 22px;
+     border-style: solid;
+     border-color: #ffffff;
+     border-width: 1px;
+     width: 649px;
+     height: 55px;
+     position: absolute;
+     left: 395px;
+    top: 360px;
+     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+     backdrop-filter: blur(38.5px);
+    }
+
+ .enter-your-name {
+    color: #6185a6;
+     text-align: left;
+     font: 400 20px 'Inter', sans-serif;
+     position: absolute;
+     left: 626px;
+    top: 373px;
+     width: 187px;
+     height: 29px;
+    }
+
+ .rectangle-5 {
+    border-radius: 44px;
+     border-style: dashed;
+     border-color: #747474;
+     border-width: 2px;
+     width: 572px;
+     height: 168px;
+     position: absolute;
+     left: 434px;
+    top: 794px;
+    }
+
+ .leafs-1 {
+    width: 245px;
+     height: 245px;
+     position: absolute;
+     left: 597px;
+    top: 42px;
+    }

@@ -73,15 +73,3 @@
     top: 42px;
     }
 
-    /* Base styles */
-.desktop-1, .desktop-1 * {
-   box-sizing: border-box;
-   }
-
-.desktop-1 {
-   background: #ffffff;
-   width: 100vw; /* Use viewport width */
-   height: auto; /* Allow height to adjust based on content */
-   position: relative;
-   overflow: hidden;
-   }

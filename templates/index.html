@@ -1,13 +1,21 @@
-<!-- For more settings use the AutoHTML plugin tab ... --> 
- <div class="desktop-1" >
-  	<img class="rectangle-3" src="rectangle-3.png" />
-  	<div class="name" >
-Name </div>
-  	<div class="rectangle-1" >
-  	</div>
-  	<div class="enter-your-name" >
-Enter your name </div>
-  	<div class="rectangle-5" >
-  	</div>
-  	<img class="leafs-1" src="leafs-1.png" />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/css/style.css">
+    <title>Leaf Name</title>
+</head>
+<body>
+    <div class="desktop-1">
+        <img class="rectangle-3" src="static/img/rectangle-3.png" />
+        <div class="name">{{ User name }}</div>
+        <div class="rectangle-1"></div>
+        <div class="rectangle-5"></div>
+		<form onsubmit="return false;">
+			<input type="text" id="name-input" class="name-input" placeholder="Enter your name">
+		</form>
+        <img class="leafs-1" src="static/img/leafs-1.png" />
+    </div>
+</body>
+</html>

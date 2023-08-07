@@ -43,6 +43,11 @@
      backdrop-filter: blur(38.5px);
     }
 
+.name-input::placeholder {
+      text-align: center;
+  }
+  
+
  .enter-your-name {
     color: #6185a6;
      text-align: left;

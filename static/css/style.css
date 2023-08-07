@@ -2,7 +2,7 @@
    box-sizing: border-box;
    }
 
-.html .html * {
+.html, .html * {
    box-sizing: border-box;
 }
    

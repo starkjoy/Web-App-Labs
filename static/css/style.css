@@ -1,6 +1,10 @@
 .rectangle-5, .rectangle-5 * {
    box-sizing: border-box;
    }
+
+.desktop-1, .desktop-1 * {
+   box-sizing: border-box;
+}
    
 .html {
     background: #ffffff;

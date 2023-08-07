@@ -84,3 +84,7 @@
      left: 597px;
     top: 42px;
     }
+
+   input {
+      text-align: left;
+   }
